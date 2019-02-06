@@ -1,0 +1,54 @@
+namespace IT1050_Assignment_1
+{
+    class MainClass
+    { 
+        static void Main(string[] args)
+        {
+            string firstName;
+            string middleInitial;
+            string lastName;
+            string fullName;
+            int age;
+            bool isCitizen;
+            bool canVote;
+            int heightFeet;
+            double heightInches;
+            double totalHeightCM;
+
+            System.Console.Write("What is your first name?");
+            firstName = System.Console.ReadLine();
+
+            System.Console.Write("What is your middle initial?");
+            middleInitial = System.Console.ReadLine();
+
+            System.Console.Write("What is your last name?");
+            lastName = System.Console.ReadLine();
+
+            fullName = (firstName + " " + middleInitial + "." + " " + lastName);
+
+            System.Console.Write("What is your height in feet (4,5,6, or 7)?");
+            heightFeet = int.Parse(System.Console.ReadLine());
+
+            System.Console.Write("How many inches beyond your base height are you?");
+            heightInches = double.Parse(System.Console.ReadLine());
+
+            totalHeightCM = ((heightFeet * 12) + heightInches) * 2.54;
+
+            System.Console.Write(firstName + " " + middleInitial + "." + " " + lastName + " " + "is" + " " + totalHeightCM + " cm tall");
+
+            System.Console.Write("What is your age?");
+            age = int.Parse(System.Console.ReadLine());
+
+            System.Console.Write("You are a United States Citizen(type'true' or 'false').");
+            isCitizen = bool.Parse(System.Console.ReadLine());
+
+            canVote = isCitizen && age >= 18;
+
+            System.Console.Write(firstName + " " + middleInitial + "." + " " + lastName + " " + "can vote." + " " + canVote);
+
+            System.Console.ReadKey();
+
+        }
+
+    }
+}
