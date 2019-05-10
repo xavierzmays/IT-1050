@@ -1,0 +1,11 @@
+C:\Users\Xavier\source\repos\IT1050ProgrammingLogicFinal\IT1050ProgrammingLogicFinal\bin\Debug\netcoreapp2.1\IT1050ProgrammingLogicFinal.deps.json
+C:\Users\Xavier\source\repos\IT1050ProgrammingLogicFinal\IT1050ProgrammingLogicFinal\bin\Debug\netcoreapp2.1\IT1050ProgrammingLogicFinal.runtimeconfig.json
+C:\Users\Xavier\source\repos\IT1050ProgrammingLogicFinal\IT1050ProgrammingLogicFinal\bin\Debug\netcoreapp2.1\IT1050ProgrammingLogicFinal.runtimeconfig.dev.json
+C:\Users\Xavier\source\repos\IT1050ProgrammingLogicFinal\IT1050ProgrammingLogicFinal\bin\Debug\netcoreapp2.1\IT1050ProgrammingLogicFinal.dll
+C:\Users\Xavier\source\repos\IT1050ProgrammingLogicFinal\IT1050ProgrammingLogicFinal\bin\Debug\netcoreapp2.1\IT1050ProgrammingLogicFinal.pdb
+C:\Users\Xavier\source\repos\IT1050ProgrammingLogicFinal\IT1050ProgrammingLogicFinal\obj\Debug\netcoreapp2.1\IT1050ProgrammingLogicFinal.csprojAssemblyReference.cache
+C:\Users\Xavier\source\repos\IT1050ProgrammingLogicFinal\IT1050ProgrammingLogicFinal\obj\Debug\netcoreapp2.1\IT1050ProgrammingLogicFinal.csproj.CoreCompileInputs.cache
+C:\Users\Xavier\source\repos\IT1050ProgrammingLogicFinal\IT1050ProgrammingLogicFinal\obj\Debug\netcoreapp2.1\IT1050ProgrammingLogicFinal.AssemblyInfoInputs.cache
+C:\Users\Xavier\source\repos\IT1050ProgrammingLogicFinal\IT1050ProgrammingLogicFinal\obj\Debug\netcoreapp2.1\IT1050ProgrammingLogicFinal.AssemblyInfo.cs
+C:\Users\Xavier\source\repos\IT1050ProgrammingLogicFinal\IT1050ProgrammingLogicFinal\obj\Debug\netcoreapp2.1\IT1050ProgrammingLogicFinal.dll
+C:\Users\Xavier\source\repos\IT1050ProgrammingLogicFinal\IT1050ProgrammingLogicFinal\obj\Debug\netcoreapp2.1\IT1050ProgrammingLogicFinal.pdb
